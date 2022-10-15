@@ -19,7 +19,7 @@ public class JobMarket {
         students[3].setName("Ionel");
 
         students[0].setGrade(7);
-        students[1].setGrade(2);
+        students[1].setGrade(5);
         students[2].setGrade(8);
         students[3].setGrade(4);
 
